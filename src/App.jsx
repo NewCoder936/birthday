@@ -87,6 +87,7 @@ function App() {
                 Wishing you a day as beautiful and radiant as you are. May your
                 year be filled with magic and joy!
               </p>
+              <p className="message-text">By Raymond</p>
 
               <div className="stars-container">
                 <Stars color="#45CAFF" size={24} className="floating-star s1" />
